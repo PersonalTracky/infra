@@ -1,6 +1,9 @@
-# Welcome to your CDK TypeScript project!
+# Tracky - infrastructure
 
-This is a blank project for TypeScript development with CDK.
+<img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+
+This repository contains the IaC definitions of services used by Tracky. Currently
+this consists of AWS services.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
